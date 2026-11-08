@@ -6,7 +6,7 @@
 
 ## Summary
 
-- Software Engineer with **7+ years** of experience in **Java, Spring, Jakarta EE, and Microservices**
+- Software Engineer with **8+ years** of experience in **Java, Spring, Jakarta EE, and Microservices**
 - Strong background in **Backend and Fullstack development** (Java, Angular, React)
 - Experience with **cloud platforms and distributed systems** (AWS, Kubernetes, Docker, Kafka)
 - Proven skills in **system migration, performance optimization, and scalable architecture**
